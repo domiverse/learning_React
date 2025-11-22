@@ -31,7 +31,7 @@ function App() {
   ];
 
   return (  
-    <div style={{display: 'flex', gap:'20px'
+    <div style={{display: 'flex', gap:'20px' //sd
     }}>
     {
       listProduct.map((product, index) => {
